@@ -25,7 +25,7 @@ The cleaning tasks were structured into an automated pipeline using **OOP best p
 
 2. **Open the Jupyter Notebook**
    - Make sure you have Python and Jupyter Notebook installed.
-   - Open the `notebook.ipynb` file using Jupyter.
+   - Open the `DataCleaningManagerSalarySurvey.ipynb` file using Jupyter.
    - Run each cell in order to explore the data and follow the full cleaning pipeline.
 
 ---
