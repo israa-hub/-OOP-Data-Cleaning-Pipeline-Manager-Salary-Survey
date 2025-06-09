@@ -1,4 +1,4 @@
-# OOP-Data-Cleaning-Pipeline-Manager-Salary-Survey
+# OOP Data Cleaning Pipeline Manager Salary Survey
 
 ### 📚 University Project – Object-Oriented Programming CA
 
