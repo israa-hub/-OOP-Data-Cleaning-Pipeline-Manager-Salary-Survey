@@ -27,7 +27,4 @@ The cleaning tasks were structured into an automated pipeline using **OOP best p
    - Make sure you have Python and Jupyter Notebook installed.
    - Open the `DataCleaningManagerSalarySurvey.ipynb` file using Jupyter.
    - Run each cell in order to explore the data and follow the full cleaning pipeline.
-
----
-
-> 📁 Make sure the dataset file `manager_salary_survey.csv` is in the same folder as the notebook. If it's missing, the code will not work correctly.
+   - Make sure the dataset file `manager_salary_survey.csv` is in the same folder as the notebook. If it's missing, the code         will not work correctly.
