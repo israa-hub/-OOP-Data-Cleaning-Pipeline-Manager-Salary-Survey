@@ -1,6 +1,6 @@
 # -OOP-Data-Cleaning-Pipeline-Manager-Salary-Survey
 
-### 📚 University Project – Object-Oriented Programming CA (25%)
+### 📚 University Project – Object-Oriented Programming CA
 
 This project was completed during my **second year** of the **BSc in Mathematics and Data Science** at **Dundalk Institute of Technology**, as part of the continuous assessment for the **Object-Oriented Programming** module. The objective was to build a reusable, modular data cleaning pipeline using the **Chain of Responsibility** design pattern in Python.
 
