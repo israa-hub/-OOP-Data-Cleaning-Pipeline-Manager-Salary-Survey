@@ -17,3 +17,17 @@ The goal of this project was to clean and prepare a messy dataset (`manager_sala
 The cleaning tasks were structured into an automated pipeline using **OOP best practices**, ensuring each step could be reused or extended with minimal changes to the codebase.
 
 ---
+## 🚀 How to Run the Project
+
+1. **Download the Project Files**
+   - Click the green **"Code"** button at the top of the repository.
+   - Select **"Download ZIP"** and extract the folder on your computer.
+
+2. **Open the Jupyter Notebook**
+   - Make sure you have Python and Jupyter Notebook installed.
+   - Open the `notebook.ipynb` file using Jupyter.
+   - Run each cell in order to explore the data and follow the full cleaning pipeline.
+
+---
+
+> 📁 Make sure the dataset file `manager_salary_survey.csv` is in the same folder as the notebook. If it's missing, the code will not work correctly.
